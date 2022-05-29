@@ -1,4 +1,4 @@
-[![MasterHead](https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif)
+![MasterHead](https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif)
 
 <h1 align="center">Hi 👋, I'm Sujit Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
